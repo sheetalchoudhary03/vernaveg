@@ -70,6 +70,4 @@ Educational learning software with gamified typing practice.
 6. Saves user progress and performance data  
 7. Admin can access and monitor all user data  
 
----
-
-## 📂 Project Structure
+--
