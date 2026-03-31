@@ -1,0 +1,49 @@
+// Common words with mixed cases
+Programming Python JavaScript
+Database MySQL PostgreSQL
+Function Method Variable
+Interface Class Object
+Algorithm Array String
+Browser Chrome Firefox
+Operating Windows Linux macOS
+Network Router Switch
+Security Password Encryption
+Development Code Debug
+Framework Library Package
+Protocol HTTP HTTPS FTP
+Animation Graphics Design
+Project Management Team
+Version Control Git GitHub
+Mobile Android iPhone
+Architecture MVC REST API
+Testing Debug Release
+Computer Hardware Software
+Digital Cloud Storage
+Keyboard Mouse Monitor
+Process Thread Runtime
+Quality Testing Bugs
+Web Server Client
+Integration System Data
+Backend Frontend Full-Stack
+Database NoSQL Redis
+Language Syntax Error
+Component Module Plugin
+Variable camelCase PascalCase
+Function callback Promise
+Architecture Microservice Docker
+Testing Unit Integration
+Memory Cache Buffer
+Algorithm Sorting Search
+Network TCP UDP DNS
+Security OAuth Token
+Component Button Input Form
+Animation Transform Scale
+Browser DOM Window
+Testing Jest Mocha
+Storage Local Session
+Protocol WebSocket MQTT
+Framework React Angular Vue
+Language Python Java Ruby
+Testing Selenium Cypress
+Security Hash Encrypt SSL
+Network Client Server API

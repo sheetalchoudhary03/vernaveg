@@ -1,0 +1,20 @@
+erDiagram
+    users {
+        INT id PK
+        STRING username UNIQUE
+        STRING password_hash
+        STRING favorite_color
+        DATETIME created_at
+    }
+
+    results {
+        INT id PK
+        STRING name  // references users.username (no FK)
+        FLOAT wpm
+        FLOAT accuracy
+        FLOAT time_taken
+        STRING test_type
+        DATETIME created_at
+    }
+
+    users ||--o{ results : has
